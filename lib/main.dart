@@ -1,10 +1,11 @@
+import 'package:employee_app/employeeslist.dart';
 import 'package:employee_app/menu.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
 void main()
 {
-  runApp(App());
+  runApp(Employeeentry());
 }
 class App extends StatelessWidget{
 
